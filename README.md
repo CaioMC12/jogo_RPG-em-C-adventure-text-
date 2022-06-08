@@ -1,2 +1,2 @@
 # jogo_RPG-em-C-adventure-text-
-#caiomachado-ernestocosta-diegoyuta
+Jogo feito por: Caio Machado, Diego Yuta e Ernesto
